@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Marraco/t/refs/heads/main/ch.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Marraco/t/refs/refs/main/ch.xml"
 
 #EXTINF:-1 tvg-logo="" group-title="Esports" tvg-id-"F1 TV 1080p", F1 TV 1080p acestream://8c92cfef8dd37e2dd2d3b8985b81cc7708e24d3c
 
